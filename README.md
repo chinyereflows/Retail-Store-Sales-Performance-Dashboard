@@ -1,9 +1,10 @@
-# Retail-Store-Sales-Performance-Dashboard
+## Retail-Store-Sales-Performance-Dashboard
 Transforming raw transactional data into actionable insights for retail optimization.
 ### Background
 This project was developed to gain insights into retail store performance, including year-over-year growth, total revenue, and overall sales trends. The dashboard is designed to help business owners and stakeholders make informed, data-driven decisions based on clear and interactive sales insights.
 ### Dataset
-A retail store sales dataset containing 12,576 rows of transactional data covering the period 2022–2025.
+A retail store sales dataset containing 12,575 rows of transactional data covering the period 2022–2025.
+Access the dataset [HERE]https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning
 ### Tools Used
 - Microsoft Excel
 ### Project Objectives
